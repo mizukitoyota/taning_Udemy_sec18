@@ -6,8 +6,12 @@ target 'Swift5Bokete1' do
   use_frameworks!
 
   # Pods for Swift5Bokete1
+
 pod 'SwiftyJSON'
-pod 'Alamofire','~> 5.0.0-beta.5'
+pod 'Alamofire'
 pod 'SDWebImage'
+
+	
+
 
 end

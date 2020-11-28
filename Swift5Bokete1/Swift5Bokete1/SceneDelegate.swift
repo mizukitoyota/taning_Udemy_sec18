@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  Swift5Bokete1
+//  Swift5Bokete
 //
-//  Created by Training on 2020/11/28.
-//  Copyright © 2020 training. All rights reserved.
+//  Created by Yuta Fujii on 2019/06/15.
+//  Copyright © 2019 Yuta Fujii. All rights reserved.
 //
 
 import UIKit
