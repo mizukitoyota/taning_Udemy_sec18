@@ -4,7 +4,7 @@
 //
 //  Created by Yuta Fujii on 2019/06/15.
 //  Copyright © 2019 Yuta Fujii. All rights reserved.
-//
+//使用しない
 
 import UIKit
 
